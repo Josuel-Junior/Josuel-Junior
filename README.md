@@ -23,9 +23,7 @@
 
 
 #### Projetos:
-![Portfólio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)&nbsp;<br>
-https://www.jfctecnologia.com/
-
+<a href="https://www.jfctecnologia.com/"> ![Portfólio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)&nbsp;</a>
 
 ## Contacts:
 
