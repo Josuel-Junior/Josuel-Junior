@@ -26,7 +26,7 @@
 #### Projetos:
 <a href="https://www.jfctecnologia.com/"> ![Portfólio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)&nbsp;</a>
 
-## Contacts:
+## Contatos:
 
 <div> 
 <a href = "mailto:contato.jfctecnologia16@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
