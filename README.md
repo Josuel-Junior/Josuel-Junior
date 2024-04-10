@@ -1,6 +1,6 @@
 
 
-<p align="center">Olá, Bem Vindo ao meu Github. <br><br> Sou um desenvolvedor front end apaixonado pelo mundo da programação, aqui você poderá encontrar alguns dos meus projetos.</p>&nbsp;
+<p align="center">Olá, Bem Vindo ao meu Github. <br><br> Sou um desenvolvedor de Software apaixonado pelo meu trabalho, aqui você poderá encontrar alguns dos meus projetos.</p>&nbsp;
 
 ## Minhas Habilidades
 
