@@ -24,7 +24,7 @@
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)&nbsp;
 
 
-#### Projetos:
+## Projetos:
 <a href="https://www.jfctecnologia.com/"> 
  <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
 </a>
