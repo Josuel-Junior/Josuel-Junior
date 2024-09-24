@@ -1,11 +1,12 @@
 
-<p align="center">Olá, Bem Vindo ao meu Github. <br><br> Sou um desenvolvedor de Software apaixonado pelo meu trabalho, aqui você poderá encontrar alguns dos meus projetos.</p>&nbsp;
+<p align="center">Olá, Bem Vindo ao meu Github. <br><br> Sou um desenvolvedor Fullstack apaixonado pelo meu trabalho, aqui você poderá encontrar alguns dos meus projetos.</p>&nbsp;
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://www.jfctecnologia.com/" target="_blank">
-    <img src="https://www.datocms-assets.com/115877/1727205350-1700115637318.png" >
+<div align="center">
+  <a href="https://www.jfctecnologia.com/" target="_blank" >
+    <img src="https://www.datocms-assets.com/115877/1727205350-1700115637318.png" style="width: 70%;">
   </a>
 </div>
+
 
 ## Minhas Habilidades
 
