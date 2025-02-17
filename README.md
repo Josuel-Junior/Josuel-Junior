@@ -1,11 +1,20 @@
+<h1 align="left">Sobre mim</h1>
 
-<p align="center">Olá, Bem Vindo ao meu Github. <br><br> Sou um desenvolvedor Fullstack apaixonado pelo meu trabalho, aqui você poderá encontrar alguns dos meus projetos.</p>&nbsp;
+###
+
+<p align="left">-Desenvolvedor Full-Stack<br>-Certificado AWS<br>-Especializado em Back-End</p>
+
+###
 
 <div align="center">
-  <a href="https://www.jfctecnologia.com/" target="_blank" >
-    <img src="https://www.datocms-assets.com/115877/1727205350-1700115637318.png" style="width: 70%;">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Josuel-Junior&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Josuel-Junior&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Josuel-Junior&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+###
 
 
 ## Minhas Habilidades
@@ -43,7 +52,7 @@
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
 #### Ferramentas:
-
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
