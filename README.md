@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-Desenvolvedor Full-Stack<br>-Certificado AWS<br>-Especializado em Back-End</p>
+<p align="left">-Desenvolvedor Full-Stack<br>-Certificado AWS
 
 ###
 
